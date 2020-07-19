@@ -1,0 +1,30 @@
+clock1.jpg| YYYYYYYYYY | Accuracy:  100
+clock2.jpg| YYYYYYYYXY | Accuracy:  90
+clock3.jpg| XXXYYYYYYX | Accuracy:  60		#Length of hour = length of minute hand limitation
+clock4.jpg| XXYYYXXYYY | Accuracy:  60		#Pattern on the clock interference
+clock5.jpg| XYYYYYYYYY | Accuracy:  90
+clock6.jpg| XYYYYYYYYY | Accuracy:  90
+clock7.jpg| XYYYYYYYYY | Accuracy:  90
+clock8.jpg| YYYYYYYYYY | Accuracy:  100
+clock9.jpg| YYYYYYYYYY | Accuracy:  100
+clock10.jpg| XXXXXXXXXX | Accuracy:  0		#Lighting Along the Center Caused Failure
+clock11.jpg| XYYYYYYYYY | Accuracy:  90
+clock12.jpg| YYYYYYYYYY | Accuracy:  100
+clock13.jpg| YYYYYYYYYY | Accuracy:  100
+clock14.jpg| XXYYYYYYYY | Accuracy:  80
+clock15.jpg| XXXXYYYYYY | Accuracy:  60		#Second Hand interference
+clock16.jpg| ?????????? | Accuracy:  0		#Black background threw ROI detection off?
+clock17.jpg| YYYYYYYYYY | Accuracy:  100
+clock18.jpg| YXXYYYYYYY | Accuracy:  80
+clock19.jpg| YYYYYYYYYY | Accuracy:  100
+clock20.jpg| XXXXXXXXXX | Accuracy:  0		#Second Hand interference?
+clock21.jpg| YYYYYXXYYY | Accuracy:  80
+clock22.jpg| XX???????? | Accuracy:  0		#Clock Hands dont have straight edges
+clock23.jpg| XXXXXXXXXX | Accuracy:  0		#Unexplained?
+clock24.jpg| YYYYYYYYYY | Accuracy:  100
+clock25.jpg| YYYYYYYYYY | Accuracy:  100
+clock26.jpg| XXXXYYXXXY | Accuracy:  30		
+clock27.jpg| YYYYYYYYYY | Accuracy:  100
+clock28.jpg| YYYYYYYYYY | Accuracy:  100
+clock29.jpg| XYYYYYYYYY | Accuracy:  90
+clock30.jpg| YXYYYYYYYY | Accuracy:  90
